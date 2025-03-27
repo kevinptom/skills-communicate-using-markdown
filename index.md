@@ -10,3 +10,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Books
+- [ ] Outline my portfolio
+- [ ] Tickets
